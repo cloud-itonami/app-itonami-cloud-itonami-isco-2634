@@ -93,3 +93,8 @@ This is what backs this repo's `:maturity :implemented` entry in
 ## License
 
 AGPL-3.0-or-later.
+
+## Attribution / 出典
+
+- 職業分類: ISCO-08（国際労働機関 ILO）のコード 2634 を参照。この app は ILO が作成・確認・推奨したものではありません。
+- Occupation reference: ISCO-08 (International Labour Organization), code 2634. This app is not produced, reviewed or endorsed by the ILO.
